@@ -15,7 +15,7 @@ public class Main {
         int invertedResult = -result;
         System.out.println("Инвентированный результат выражения: " + invertedResult);
 
-        //Задача 7
+        // Задача 7
 
         a = 5;
         b = 7;
@@ -25,7 +25,7 @@ public class Main {
         a = a - b;
         System.out.println("Теперь переменные a и b соответственно составляют " + a + " и " + b + ".");
 
-        //Задача 8
+        // Задача 8
 
         a = 256;
         b = a % 100;
